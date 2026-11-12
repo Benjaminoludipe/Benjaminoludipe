@@ -17,8 +17,11 @@ Each project README explains the purpose, method, **my individual contribution**
 
 ## Skills
 **Security:** Kali Linux, Wireshark, OWASP ZAP, OWASP Juice Shop, IPFire firewall, SAST/DAST, log analysis, IoC matching
+
 **Forensics:** Autopsy, The Sleuth Kit, FTK Imager, hash verification, file carving
+
 **Cloud:** AWS (VPC, EC2, RDS, Auto Scaling, ALB, S3, Route 53, WAF)
+
 **Code:** Python, PowerShell, Bash, SQL, Git
 
 ## Also building
