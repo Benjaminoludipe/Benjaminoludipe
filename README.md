@@ -10,7 +10,7 @@
 | # | Project | What it shows | Tools |
 |---|---|---|---|
 | 1 | **[SOC Security Investigation Tool](https://github.com/Benjaminoludipe/Advanced-Security-Project)** | Modular log-analysis tool that detects brute force, malicious PowerShell, IoC hits and data exfiltration, then writes a risk-scored report (56 alerts, HIGH risk on the course dataset). Individual. | PowerShell, regex, IoCs |
-| 2 | **[Digital Forensic Investigation with Autopsy](https://github.com/Benjaminoludipe/autopsy-forensic-investigation)** | Hash-verified examination of a seized USB image: recovered deleted and disguised files, opened an encrypted ZIP, built a timeline and wrote the report. Individual. | Autopsy, Sleuth Kit, PhotoRec |
+| 2 | **[Secure AWS Cloud Proof of Concept](https://github.com/Benjaminoludipe/aws-cloud-proof-of-concept)** | Designed and built a three-tier AWS architecture across 2 Availability Zones (ALB, Auto Scaling, private RDS, least-privilege security groups), tested auto scaling under load and mapped the design to NIST CSF 2.0. Individual. | AWS VPC, EC2, ALB, ASG, RDS, S3 |
 | 3 | **[Automated IP Reputation Analysis Tool](https://github.com/Benjaminoludipe/Cyber-Security-Duo-project)** | Extracts live remote connections and checks them against AbuseIPDB threat intelligence. Pair project; I later found, fixed and tested a cross-platform parsing bug. | PowerShell, Python, REST API |
 
 Each project README explains the purpose, method, **my individual contribution**, the evidence and what it demonstrates.
